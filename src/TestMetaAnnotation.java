@@ -1,7 +1,7 @@
 import java.lang.annotation.*;
 
 @MyAnnotation
-public class TestAnnotation {
+public class TestMetaAnnotation {
 
     @MyAnnotation
     public void test() {
